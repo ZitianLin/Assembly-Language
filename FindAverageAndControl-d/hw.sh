@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# CPSC 240
-# Assignment 3
 # Name: Zitian Lin
-# CWID: 887785608
+# 10/29/19
 
 rm *.o
 rm *.out
