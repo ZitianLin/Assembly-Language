@@ -1,7 +1,5 @@
-// CPSC 240
-// Asignment 3
 // Name: Zitian Lin
-// CWID: 887785608
+// 10/29/19
 
 #include <stdio.h>
 
